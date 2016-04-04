@@ -27,3 +27,8 @@ ul {
 li {
     display: inline;
 }
+}
+/* Change the link color to light blue on hover */
+li a:hover {
+    background-color: lightblue;
+}
