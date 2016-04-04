@@ -4,12 +4,18 @@ selector{
    property:value;
 }
 */
+title{
+    font-family: 'Merriweather', serif;
+  font-size: 300%;
+  font-weight: normal; 
+  font-color: white; 
+}
 body{ 
    background-color: gray
    }
 nav { 
   font-family: 'Merriweather', serif;
-  font-size: 300%;
+  font-size: 200%;
   font-weight: normal; 
   font-color: white;
 }
