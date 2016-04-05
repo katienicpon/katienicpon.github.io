@@ -11,9 +11,11 @@ h1{
   font-color: white; 
 }
 body {
-    background-image: https://github.com/katienicpon/katienicpon.github.io/blob/master/homepic.jpg ("homepic.jpg");
-    background-color: #808080;
+    background: url(homepic.jpg);
+    background-size: 80px 60px;
+    background-repeat: no-repeat;
 } 
+
 ul { 
   font-family: 'Merriweather', serif;
   font-size: 200%;
