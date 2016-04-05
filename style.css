@@ -10,9 +10,10 @@ h1{
   font-weight: normal; 
   font-color: white; 
 }
-body{ 
-   background-color: gray
-   }
+body {
+    background-image: url("homepic.jpg");
+    background-color: #cccccc;
+} 
 ul { 
   font-family: 'Merriweather', serif;
   font-size: 200%;
