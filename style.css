@@ -43,14 +43,6 @@ selector{
 			background: #D3D3D3;
 		}
 		
-		.innertube {
-			margin: 15px; /* Provides padding for the content */
-		}
-		
-		p {
-			color: #000000;
-		}
-
 		/* Menu */
 		nav { 
 			margin:0 auto; 
@@ -67,12 +59,6 @@ selector{
 			padding:0 0 0 8px; 
 			float:left;
 		}
-		nav ul li a { 
-			display:block; 
-			margin:0; 
-			padding:8px 20px; 
-			color: #ffffff; 
-			text-decoration:none;
       font-family: 'Merriweather', serif;
 		}
 		nav ul li.active a, #top-nav ul li a:hover { 
