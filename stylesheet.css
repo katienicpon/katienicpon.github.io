@@ -1,3 +1,8 @@
+* {
+	background-color: #BFBFBF;
+}
+
+
 #banner {
 	height: 50px;
 	width: 100%;
@@ -20,8 +25,6 @@
 	margin: 2px;
 	text-decoration: none;
 	display: inline;
-	position: relative;
-	top: 50px;
 }
 
 a:hover {
@@ -32,9 +35,7 @@ a:hover {
 	font-size: 20px;
 	font-color: black;
 	font-family: Merriweather, Georgia, serif;
-	display: inline;
-	position: relative;
-	left: 100px;
+
 }
 
 .projecttitle {
@@ -51,17 +52,12 @@ a:hover {
 	font-size: 10px;
 	font-color: black;
 	font-family: Roboto, Gotham Book, Arial, sans-serif;
-	display: inline;
-	position: relative;
-	left: 100px;
+
 }
 
 .projectpic {
-	float: left;
 	margin: 5px;
-	display: inline;
-	position: relative;
-	right: 100px;
+
 }
 
 
