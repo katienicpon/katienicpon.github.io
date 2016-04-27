@@ -9,8 +9,14 @@
 }
 
 #navbar {
-	height: 30px
+	height: 100px
 	width: 100%;
+	background-color:black;
+	border: 1px solid black;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
+	
 }
 
 #menu {
@@ -21,6 +27,7 @@
 	margin: 2px;
 	text-decoration: none;
 	display: inline;
+	padding: 20px;
 }
 
 a:hover {
