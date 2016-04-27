@@ -3,4 +3,21 @@
 	width: 100%;
 }
 
+#navbar {
+	height: 30px
+	width: 100%;
+	background-color:black;
+	border: 1px solid black;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+#menu {
+	color: white;
+	font-family: Merriweather, Georgia, serif;
+	font-size: 10px;
+	float: center;
+	margin: 2px;
+}
+
 
