@@ -1,7 +1,6 @@
 body {
 	background-color: #BFBFBF;
-	margin-right: 100px;
-	margin-left: 100px;
+
 }
 
 
@@ -59,28 +58,3 @@ li {
 
 }
 
-.projecttitle {
-	font-size: 15px;
-	font-color: black;
-        font-family: Merriweather, Georgia, serif;
-	left: 100px;
-	margin-right: 100px;
-	margin-left: 100px;
-	
-}
-
-.projectdescription {
-	font-size: 10px;
-	font-color: black;
-	font-family: Roboto, Gotham Book, Arial, sans-serif;
-	margin-right: 200px;
-	margin-left: 200px;
-
-}
-
-.projectpic {
-	margin: 5px;
-	margin-right: 100px;
-	margin-left: 100px;
-
-}
