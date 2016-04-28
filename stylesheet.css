@@ -24,7 +24,6 @@ body {
 	color: white;
 	font-family: Merriweather, Georgia, serif;
 	font-size: 40px;
-	float: center;
 	margin: 2px;
 	text-decoration: none;
 	display: inline;
@@ -48,6 +47,7 @@ li {
 	font-size: 20px;
 	font-color: black;
 	font-family: Merriweather, Georgia, serif;
+	margin-left: 30px;
 
 }
 
@@ -61,10 +61,11 @@ h2 {
 }
 p {
 	font-family: Roboto, Verdana, Arial, sans-serif;
+	margin-left: 30px;
 }
 
 img {
-	padding: 30px;
+	margin-left: 30px;
 }
 
 
