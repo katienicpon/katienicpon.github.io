@@ -67,5 +67,10 @@ p {
 img {
 	padding: 30px;
 }
+
+.photo {
+	height: 5in;
+	width: 3in;
+	padding: 30px;
 }
 
