@@ -54,5 +54,13 @@ li {
 .project {
 	padding: 30px;
 }
+
+h2 {
+	font-family: Merriweather, Georgia, serif;
+	color: black;
+}
+p {
+	padding: 30px;
+	font-family: Roboto, Verdana, Arial, sans-serif;
 }
 
